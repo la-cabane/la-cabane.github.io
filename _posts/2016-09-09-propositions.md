@@ -19,13 +19,13 @@ Nos formules:
 - observation des ânes en liberté
 - jeux de mémoire autour de l'âne
 - conte d'une histoire d'âne
-coût de l'atelier 70€TTC/h (6 personnes)
+Coût de l'atelier 70€TTC/h (6 personnes)
 
 ### Formule découverte (dans votre structure)
 - installation des ânes dans un enclos
 - présentation des ânes à un groupe de 6 bénéficiaires maximum
 - ateliers de médiation en individuel
-forfait visite 180TTC (min 2h)
+Forfait visite 180TTC (min 2h)
 heure supplémentaire 50€ TTC + frais de déplacement
 
 ### Formule Scolaire
