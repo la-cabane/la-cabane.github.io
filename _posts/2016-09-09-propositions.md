@@ -6,7 +6,7 @@ image: arctic-2.jpg
 ---
 
 ## Médiation Animale
-
+image: Anes.jpeg 
 Avec nos 4 ânes nous proposons des ateliers de médiation asine.
 En groupe ou individuellement, ces ateliers s'adressent aux personnes en situation de handicap, personnes âgées et les enfants. 
 Les ateliers ont lieu à la "Cab'âne" ou dans votre structure.
@@ -58,6 +58,7 @@ CycloShow: https://cycloshow-xy.fr/animateurs/animateur/?anim=108
 Mission XY : https://cycloshow-xy.fr/animateurs/animateur/?anim=128
 
 ### Ateliers "It's time"
+image:abbayetamie
 C'est:
 - Une journée père - fils (15 - 17 ans) pour partager un temps spécial autour de grands jeux et d'épreuves ludiques pour aborder les questions que l'on ose pas poser !
 - Passer une étape dans nos relations pour avancer vers une plus grande liberté.
@@ -66,7 +67,7 @@ C'est:
 OUTDOOR !!! Une journée au grand air dans un cadre magnifique proche de l'abbaye de Tamié. 
 De 9h à 17h30.
 Tarif 60€/duo
-
+image: It S time.jpeg
 Prochaines sessions: dates à venir
 vous pouvez vous inscrire pour être informé des prochaines dates en envoyant un mail à contact@lacabane.education
 
