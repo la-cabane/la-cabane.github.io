@@ -53,7 +53,7 @@ Les garçons de 11 à 14 ans suivent l'atelier MissionXY avec leur père. Tous c
 
 L'atelier CycloPause s'adresse aux femmes concernées par la préménopause et la ménopause.
 
-Nos prochains ateliers 
+Nos prochains ateliers:
 CycloShow: https://cycloshow-xy.fr/animateurs/animateur/?anim=108
 Mission XY : https://cycloshow-xy.fr/animateurs/animateur/?anim=128
 
@@ -63,7 +63,9 @@ C'est:
 - Passer une étape dans nos relations pour avancer vers une plus grande liberté.
 - Vivre une expérience pour mieux se connaître et connaître l'autre et ainsi faire grandir l'estime et l'engagement.
   
-OUTDOOR !!! Une journée au grand air dans un cadre magnifique proche de l'abbaye de Tamié. De 9h à 17h30.
+OUTDOOR !!! Une journée au grand air dans un cadre magnifique proche de l'abbaye de Tamié. 
+De 9h à 17h30.
+Tarif 60€/duo
 
 Prochaines sessions: dates à venir
 vous pouvez vous inscrire pour être informé des prochaines dates en envoyant un mail à contact@lacabane.education
