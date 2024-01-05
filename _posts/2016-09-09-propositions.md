@@ -2,7 +2,7 @@
 layout: post
 title: "Nos propositions"
 author: "La-Cabane"
-image: arctic-2.jpg
+image: Anes.jpg
 ---
 
 ## Médiation Animale
