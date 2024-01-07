@@ -5,4 +5,4 @@ author: "La-Cabane"
 image: city-1.jpg
 ---
 
-Ici le texte
+Ici le text
