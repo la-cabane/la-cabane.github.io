@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Nos propositions"
+title: "Médiation Animale"
 author: "La-Cabane"
 image: Anes.jpg
 ---
