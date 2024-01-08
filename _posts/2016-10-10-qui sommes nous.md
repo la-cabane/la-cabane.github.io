@@ -74,7 +74,7 @@ La Cab’Âne, c’est aussi un lieu où se vivent des activités autour de la t
 Ici un texte sur les anes
 
 # Nos partenaires
-Membre du réseau “Accueil Paysan” depuis le mois de mars 2023, nous développons un partenariat fort avec les fermes d’Accueil Paysan. 
+Membres du réseau “Accueil Paysan” depuis le mois de mars 2023, nous développons un partenariat fort avec les fermes d’Accueil Paysan. 
 
 En allant dans les fermes, nous rencontrons des acteurs locaux, passionnés par leur travail. Nous pouvons ainsi participer à des activités de découverte (la traite des chèvres, guider un troupeau jusqu’au pâturage, cueillette de petits fruits, transformation en confiture, pétrissage de la pâte à pain, fabrication du fromage …).
 
