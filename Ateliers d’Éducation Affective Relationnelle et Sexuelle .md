@@ -6,6 +6,15 @@ image: city-1.jpg
 ---
 
 ## Les accompagnements éducatif
+Membres de l'association CycloShow-Mission XY France depuis 2019 pour Priscille et depuis 2022 pour Maël, nous avons à coeur de proposer les ateliers mère-fille et père-fils de l'association afin d'aider les parents à accompagner leurs adolescents sur le chemin de la puberté.
+
+Fin 2023 nous avons créé un atelier pour les grands adolescents appelé "It's Time !" qui s'adresse aux grands adolescents accompagnés de leur père. Les objectifs de cet atelier sont les suivants:
+Objectif de l’atelier en 4 points:
+1) Donner aux binômes masculins  les informations nécessaires pour qu’ils puissent échanger sur les changements qui se sont produits dans le corps de l’adolescent et les modifications du comportement que cela engendre.
+2) Eveiller un sentiment d’émerveillement et de respect pour le corps de l’homme et de la femme
+3) Transmettre que notre corps physiologique est en relation avec notre dimension psychologique et relationnelle. Ceci pour un plus grand épanouissement de la personne et de sa dignité
+4) Faire partager un temps relationnel de qualité entre les binômes pour favoriser l’échange autour des questions d’affectivité, de relation et de sexualité. 
+
 
 ### Ateliers Cycloshow et mission XY
 L'association CycloShow-XY France propose aux parents et à leurs enfants (pré-ados et ados) des ateliers d'Education Affective, Relationnelle et Sexuelle (EARS). Ces ateliers d'une journée sont axés sur l'anatomie, le cycle féminin et la grossesse, ainsi que les changements de la puberté.
