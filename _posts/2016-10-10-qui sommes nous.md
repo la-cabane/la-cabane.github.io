@@ -34,6 +34,10 @@ La Cab’Âne, c’est aussi un lieu où se vivent des activités autour de la t
 
 Ici un texte sur les anes
 
-# Le jardin
+# Nos partenaires
+Membre du réseau “Accueil Paysan” depuis le mois de mars 2023, nous développons un partenariat fort avec les fermes d’Accueil Paysan. 
 
-Ici un texte sur le jardin
+En allant dans les fermes, nous rencontrons des acteurs locaux, passionnés par leur travail. Nous pouvons ainsi participer à des activités de découverte (la traite des chèvres, guider un troupeau jusqu’au pâturage, cueillette de petits fruits, transformation en confiture, pétrissage de la pâte à pain, fabrication du fromage …).
+
+Toutes ces activités permettent au jeune de travailler la persévérance, la maîtrise de soi, l’engagement, la confiance en soi,l’observation, la patience…
+ À travers ces activités, l’un des objectifs est de faire prendre conscience que la dimension pratique (activité) est intimement liée à l’aspect théorique (scolarité). 
