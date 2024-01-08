@@ -41,3 +41,11 @@ En allant dans les fermes, nous rencontrons des acteurs locaux, passionnés par 
 
 Toutes ces activités permettent au jeune de travailler la persévérance, la maîtrise de soi, l’engagement, la confiance en soi,l’observation, la patience…
  À travers ces activités, l’un des objectifs est de faire prendre conscience que la dimension pratique (activité) est intimement liée à l’aspect théorique (scolarité). 
+
+### Membres de la Coopérative d'Activité et d'Emploi Synapse
+En réfléchissant au projet de la Cab'âne, nous avons fait le choix de rejoindre une coopérative d'activité et d'emploi.
+Depuis avril 2022 nous faisons partie de la CAE Synapse basée à Gresy Sur Aix. Le statut d'entrepreneur salarié nous permet aujourd'hui de proposer les 3 prestations d'accompagnement sous le numéro siret de la CAE.
+Plus d'informations sur le site internet de la CAE
+https://synapse-cae.fr/portfolio/la-cabane-accompagnement-educatif/
+
+Vous pouvez voir notre page d'entrepreneur 
