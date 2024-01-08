@@ -5,6 +5,11 @@ author: "La-Cabane"
 image: lieu accueil.jpg
 ---
 
+
+
+
+
+
 C’est notre maison où nous (Priscille et Maël) vivons avec nos 4 enfants. La Cab’Âne c’est aussi un service d’accompagnement éducatif.
 Ainsi, notre famille a décidé d’accueillir des jeunes, afin de proposer des séjours de répit et de remobilisation.
 Notre maison est située dans un petit village, Notre Dame des Millières en Savoie. Ce village abrite mille habitants, il est situé à la campagne proche des sommets alpins.
