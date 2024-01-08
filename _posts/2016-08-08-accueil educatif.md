@@ -2,7 +2,54 @@
 layout: post
 title: "Accueil Educatif"
 author: "La-Cabane"
-image: arctic-1.jpg
+image: debroussaillage.jpg
 ---
 
-Ici le texte
+# Objectif de la cab’âne:
+Les piliers de la cab’âne : 
+
+Découvrir – Partager - Responsabiliser
+
+Proposition de séjours de remobilisation allant de un à plusieurs mois à destination de jeunes en décrochage avec leur projet scolaire et/ou professionnel et en difficulté avec leur milieu de vie habituel. 
+image: activite-bois.jpg
+- Pour des jeunes de 13 à 18 ans.
+- Un Lieu pour souffler et prendre du temps pour lui, tant sur le plan personnel que professionnel
+- Un  accompagnement individuel ou possibilité d’accueillir : 2 jeunes maximum
+- Immersion dans un cadre de vie familiale 
+- Une Pédagogie: Le “faire-avec” autour d’activités paysannes et médiation animale (animaux de basse cour et Asinerie)
+
+## Découvrir …
+- Ses qualités et ses talents 
+- De nouveaux savoir-faire / savoir-être
+- De nouveaux horizons, en rencontrant des personnes passionnées par leur métier
+- De nouvelles perspectives de travail ou de scolarité par la mise en lien des savoirs théoriques et pratiques
+    ###   … à travers des ateliers pratiques et concrets 
+image: médiation asine.jpeg
+
+  ## Partager…
+- Du temps dans le quotidien, des expériences de la vie  
+- Des moments conviviaux: sobres et joyeux
+- Des pratiques et des postures professionnelles avec les partenaires de la Cab’ ne
+- Des chemins de vie différents porteurs de sens 
+- Des activités proches de la terre
+     ###    … avec un réseau de personnes enracinées dans leur territoire 
+image: Pain boulanger.jpg
+
+## Responsabiliser…
+
+Grâce à la médiation animale
+En lui donnant des tâches à faire lors des différentes activités proposées
+Par une pédagogie de mise en responsabilité régulière et adaptée au rythme du jeune
+En travaillant ses perspectives concrètes sur son avenir scolaire et/ou Professionnel pour un retour progressif dans son milieu de vie
+  ###    … pour lui donner un nouvel élan, le mettre en confiance pour  se sentir capable et responsable .
+image:activite-bois.jpg
+
+## Modalités d'accueil
+tarif horaire => 50 € TTC
+forfait journée => 220 € TTC  avec ½ pension, prise en charge sur 8h
+
+Frais de déplacements: (pour récupérer/déposer le jeune sur son lieu de vie) => 0.65 € / km 
+
+
+
+
