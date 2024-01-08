@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Qui sommes nous ?"
+title: "Accueil Educatif"
 author: "La-Cabane"
 image: arctic-1.jpg
 ---
