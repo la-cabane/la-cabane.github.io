@@ -26,7 +26,7 @@ Heureux de ces expériences vécues  tant avec les professionnels  que  les jeun
 
 Notre maison est située dans un petit village, Notre Dame des Millières en Savoie, entre Albertville et Chambéry Ce village abrite mille habitants, il est situé à la campagne proche des sommets alpins.
 La Cab’Âne, c’est aussi un lieu où se vivent des activités autour de la terre et des animaux. Soit sur place avec le jardin potager, les poules et nos fidèles compagnons les ânes ; soit chez les paysans qui nous accueillent dans leurs fermes.
-<img src="carte">
+<img src="carte.jpeg">
 
 # Les ânes
 
