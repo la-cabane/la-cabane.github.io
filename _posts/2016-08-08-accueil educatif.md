@@ -37,12 +37,12 @@ image: Pain boulanger.jpg
 
 ## Responsabiliser…
 
-Grâce à la médiation animale
-En lui donnant des tâches à faire lors des différentes activités proposées
+Grâce à la médiation animale,
+en lui donnant des tâches à faire lors des différentes activités proposées
 Par une pédagogie de mise en responsabilité régulière et adaptée au rythme du jeune
 En travaillant ses perspectives concrètes sur son avenir scolaire et/ou Professionnel pour un retour progressif dans son milieu de vie
   ###    … pour lui donner un nouvel élan, le mettre en confiance pour  se sentir capable et responsable .
-image:activite-bois.jpg
+image: activite-bois.jpg
 
 ## Modalités d'accueil
 tarif horaire => 50 € TTC
