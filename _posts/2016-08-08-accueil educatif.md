@@ -13,8 +13,8 @@ Découvrir – Partager - Responsabiliser
 Proposition de séjours de remobilisation allant de un à plusieurs mois à destination de jeunes en décrochage avec leur projet scolaire et/ou professionnel et en difficulté avec leur milieu de vie habituel. 
 image: activite-bois.jpg
 - Pour des jeunes de 13 à 18 ans.
-- Un Lieu pour souffler et prendre du temps pour lui, tant sur le plan personnel que professionnel
-- Un  accompagnement individuel ou possibilité d’accueillir : 2 jeunes maximum
+- Un Lieu pour souffler et prendre du temps, tant sur le plan personnel que professionnel
+- Un  accompagnement individuel (possibilité d’accueillir 2 jeunes maximum)
 - Immersion dans un cadre de vie familiale 
 - Une Pédagogie: Le “faire-avec” autour d’activités paysannes et médiation animale (animaux de basse cour et Asinerie)
 
@@ -29,7 +29,7 @@ image: médiation asine.jpeg
   ## Partager…
 - Du temps dans le quotidien, des expériences de la vie  
 - Des moments conviviaux: sobres et joyeux
-- Des pratiques et des postures professionnelles avec les partenaires de la Cab’ ne
+- Des pratiques et des postures professionnelles avec les partenaires de la Cab’âne
 - Des chemins de vie différents porteurs de sens 
 - Des activités proches de la terre
      ###    … avec un réseau de personnes enracinées dans leur territoire 
