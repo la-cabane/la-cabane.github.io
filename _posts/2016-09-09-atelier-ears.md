@@ -31,7 +31,7 @@ Nos prochains ateliers:
 - [Mission XY](https://cycloshow-xy.fr/animateurs/animateur/?anim=128)
 
 ### Ateliers "It's time"
-[oups](../assets/img/tamie.jpg)
+![oups](../assets/img/tamie.jpg)
 C'est:
 - Une journée père - fils (15 - 17 ans) pour partager un temps spécial autour de grands jeux et d'épreuves ludiques pour aborder les questions que l'on ose pas poser !
 - Passer une étape dans nos relations pour avancer vers une plus grande liberté.
