@@ -24,7 +24,7 @@ image: activite-bois.jpg
 - De nouveaux horizons, en rencontrant des personnes passionnées par leur métier
 - De nouvelles perspectives de travail ou de scolarité par la mise en lien des savoirs théoriques et pratiques
     ###   … à travers des ateliers pratiques et concrets 
-image: médiation asine.jpeg
+![veuillez nous excuser l'image ne charge pas](../assets/img/Anes.jpeg)
 
   ## Partager…
 - Du temps dans le quotidien, des expériences de la vie  
