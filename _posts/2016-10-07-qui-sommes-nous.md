@@ -2,7 +2,7 @@
 layout: post
 title: "Qui sommes-nous ?"
 author: "La-Cabane"
-image: lieu-accueil.jpeg
+image: logo-build.jpeg
 ---
 # Notre offre
 « Il faut tout un village pour éduquer un enfant »
@@ -69,7 +69,7 @@ La Cab’Âne, c’est aussi un lieu où se vivent des activités autour de la t
 
 # Les ânes
 
-![problème de chargement d'image](../assets/img/mediation_bella.jpg)
+![problème de chargement d'image](../assets/img/rond-longe-traction.jpg)
 
 
 

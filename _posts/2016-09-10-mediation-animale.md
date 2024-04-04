@@ -2,7 +2,7 @@
 layout: post
 title: "Médiation Animale"
 author: "La-Cabane"
-image: anes.jpeg
+image: mediation-floute-groupe.png
 ---
 
 ## Médiation Animale
@@ -20,6 +20,7 @@ Les ateliers ont lieu à la "Cab'âne" ou dans votre structure.
 - jeux de mémoire autour de l'âne
 - conte d'une histoire d'âne
 ####   Coût de l'atelier 70€TTC/h (6 personnes)
+![problème de chargement d'image](../assets/img/mediation_bella.jpg)
 
 ### Formule découverte (dans votre structure)
 - installation des ânes dans un enclos
@@ -36,6 +37,7 @@ Accueil d'une classe jusqu'à 30 enfants
 - jeux sur le thème des ânes
 ####   240€ TTC/ demi-journée
 ####   400€ TTC/ journée
+
 
 ### devis gratuit personnalisé 
 
