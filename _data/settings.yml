@@ -1,8 +1,9 @@
 menu:
 - {name: 'Qui sommes nous ?',       url: 'qui-sommes-nous'}
-- {name: 'Le lieu',  url: 'lieu'}
-- {name: 'Nos propositions', url: 'propositions'}
-- {name: 'Nos soutiens',      url: 'soutiens'}
+- {name: 'Accueil Educatif', url: 'accueil-educatif'}
+- {name: 'Médiation Animale',      url: 'mediation-animale'}
+- {name: 'Ateliers E.A.R.S',      url: 'atelier-ears'}
+- {name: 'Contact',  url: 'contact'}
 
 # Available social icons are powered by Font Awesome, so you can use any icon that they offer
 social:
