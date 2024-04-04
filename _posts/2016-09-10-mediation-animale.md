@@ -2,7 +2,7 @@
 layout: post
 title: "Médiation Animale"
 author: "La-Cabane"
-image: Anes.jpg
+image: Anes.jpeg
 ---
 
 ## Médiation Animale
