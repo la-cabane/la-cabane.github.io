@@ -2,11 +2,11 @@
 layout: post
 title: "Médiation Animale"
 author: "La-Cabane"
-image: Anes.jpeg
+image: anes.jpeg
 ---
 
 ## Médiation Animale
-image: Anes.jpeg 
+
 Avec nos 4 ânes nous proposons des ateliers de médiation asine.
 En groupe ou individuellement, ces ateliers s'adressent aux personnes en situation de handicap, personnes âgées et les enfants. 
 Les ateliers ont lieu à la "Cab'âne" ou dans votre structure.

@@ -2,7 +2,7 @@
 layout: post
 title: "Qui sommes-nous ?"
 author: "La-Cabane"
-image: lieu accueil.jpg
+image: lieu-accueil.jpeg
 ---
 # Notre offre
 « Il faut tout un village pour éduquer un enfant »
@@ -65,13 +65,13 @@ Et nous privilégions une vie sobre et joyeuse.
 
 Notre maison est située dans un petit village, Notre Dame des Millières en Savoie, entre Albertville et Chambéry Ce village abrite mille habitants, il est situé à la campagne proche des sommets alpins.
 La Cab’Âne, c’est aussi un lieu où se vivent des activités autour de la terre et des animaux. Soit sur place avec le jardin potager, les poules et nos fidèles compagnons les ânes ; soit chez les paysans qui nous accueillent dans leurs fermes.
-<img src="carte.jpeg">
+![problème de chargement d'image](../assets/img/carte.jpeg)
 
 # Les ânes
 
-<img src="{{ site.github.url }}/assets/img/arctic-1.jpg">
+![problème de chargement d'image](../assets/img/mediation_bella.jpg)
 
-Ici un texte sur les anes
+
 
 # Nos partenaires
 Membres du réseau “Accueil Paysan” depuis le mois de mars 2023, nous développons un partenariat fort avec les fermes d’Accueil Paysan. 
@@ -84,7 +84,5 @@ Toutes ces activités permettent au jeune de travailler la persévérance, la ma
 ### Membres de la Coopérative d'Activité et d'Emploi Synapse
 En réfléchissant au projet de la Cab'âne, nous avons fait le choix de rejoindre une coopérative d'activité et d'emploi.
 Depuis avril 2022 nous faisons partie de la CAE Synapse basée à Gresy Sur Aix. Le statut d'entrepreneur salarié nous permet aujourd'hui de proposer les 3 prestations d'accompagnement sous le numéro siret de la CAE.
-Plus d'informations sur le site internet de la CAE
-https://synapse-cae.fr/portfolio/la-cabane-accompagnement-educatif/
-
+Plus d'informations sur le [site internet de la CAE](https://synapse-cae.fr/portfolio/la-cabane-accompagnement-educatif/)
 Vous pouvez voir notre page d'entrepreneur 
