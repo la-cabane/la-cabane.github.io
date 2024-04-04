@@ -2,7 +2,7 @@
 layout: post
 title: "Ateliers d'Education Affective Relationnelle et Sexuelle"
 author: "La-Cabane"
-image: it-s-time.jpeg
+image: it-s-time-puzzle.jpg
 ---
 ## Les accompagnements éducatif
 Membres de l'association CycloShow-Mission XY France depuis 2019 pour Priscille et depuis 2022 pour Maël, nous avons à coeur de proposer les ateliers mère-fille et père-fils de l'association afin d'aider les parents à accompagner leurs adolescents sur le chemin de la puberté.
