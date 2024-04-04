@@ -9,11 +9,11 @@ image: logo-build.jpeg
 
 La Cab’Âne propose 3 offres d’accompagnement :
 
-1. Un accompagnement éducatif personnalisé 
+- Un accompagnement éducatif personnalisé 
 
-2. Des Ateliers de soutien à la parentalité (spécialisés sur les changements à l’heure de la puberté)
+- Des Ateliers de soutien à la parentalité (spécialisés sur les changements à l’heure de la puberté)
 
-3. Des Ateliers de médiation ( ânes et animaux de la ferme)
+- Des Ateliers de médiation ( ânes et animaux de la ferme)
 
 # Notre écosystème :
 
@@ -72,9 +72,8 @@ La Cab’Âne, c’est aussi un lieu où se vivent des activités autour de la t
 ![problème de chargement d'image](../assets/img/rond-longe-traction.jpg)
 
 
-
 # Nos partenaires
-Membres du réseau “Accueil Paysan” depuis le mois de mars 2023, nous développons un partenariat fort avec les fermes d’Accueil Paysan. 
+Proches du réseau “Accueil Paysan” depuis le mois de mars 2023, nous développons un partenariat fort avec les fermes d’Accueil Paysan. 
 
 En allant dans les fermes, nous rencontrons des acteurs locaux, passionnés par leur travail. Nous pouvons ainsi participer à des activités de découverte (la traite des chèvres, guider un troupeau jusqu’au pâturage, cueillette de petits fruits, transformation en confiture, pétrissage de la pâte à pain, fabrication du fromage …).
 

@@ -31,7 +31,7 @@ Nos prochains ateliers:
 - [Mission XY](https://cycloshow-xy.fr/animateurs/animateur/?anim=128)
 
 ### Ateliers "It's time"
-![oups](../assets/img/it-s-time.jpeg)
+![oups](../assets/img/tamie.jpg)
 C'est:
 - Une journée père - fils (15 - 17 ans) pour partager un temps spécial autour de grands jeux et d'épreuves ludiques pour aborder les questions que l'on ose pas poser !
 - Passer une étape dans nos relations pour avancer vers une plus grande liberté.
@@ -40,6 +40,5 @@ C'est:
 OUTDOOR !!! Une journée au grand air dans un cadre magnifique proche de l'abbaye de Tamié. 
 De 9h à 17h30.
 Tarif 60€/duo
-image: It S time.jpeg
 Prochaines sessions: dates à venir
 vous pouvez vous inscrire pour être informé des prochaines dates en envoyant un mail à contact@lacabane.education
