@@ -2,7 +2,7 @@
 layout: post
 title: "Accueil Educatif"
 author: "La-Cabane"
-image: debroussaillage.jpg
+image: debroussaillage.jpeg
 ---
 
 # Objectif de la cab’âne:
@@ -24,7 +24,7 @@ image: activite-bois.jpg
 - De nouveaux horizons, en rencontrant des personnes passionnées par leur métier
 - De nouvelles perspectives de travail ou de scolarité par la mise en lien des savoirs théoriques et pratiques
     ###   … à travers des ateliers pratiques et concrets 
-![veuillez nous excuser l'image ne charge pas](../assets/img/Anes.jpeg)
+![veuillez nous excuser l'image ne charge pas](../assets/img/anes.jpeg)
 
   ## Partager…
 - Du temps dans le quotidien, des expériences de la vie  
@@ -33,7 +33,7 @@ image: activite-bois.jpg
 - Des chemins de vie différents porteurs de sens 
 - Des activités proches de la terre
      ###    … avec un réseau de personnes enracinées dans leur territoire 
-image: Pain boulanger.jpg
+![veuillez nous excuser l'image ne charge pas](../assets/img/pain-boulanger.jpeg)
 
 ## Responsabiliser…
 
@@ -42,7 +42,7 @@ en lui donnant des tâches à faire lors des différentes activités proposées
 Par une pédagogie de mise en responsabilité régulière et adaptée au rythme du jeune
 En travaillant ses perspectives concrètes sur son avenir scolaire et/ou Professionnel pour un retour progressif dans son milieu de vie
   ###    … pour lui donner un nouvel élan, le mettre en confiance pour  se sentir capable et responsable .
-image: activite-bois.jpg
+![veuillez nous excuser l'image ne charge pas](../assets/img/activite-bois.jpeg)
 
 ## Modalités d'accueil
 tarif horaire => 50 € TTC
