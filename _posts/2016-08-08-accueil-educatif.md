@@ -45,11 +45,9 @@ En travaillant ses perspectives concrètes sur son avenir scolaire et/ou Profess
 ![veuillez nous excuser l'image ne charge pas](../assets/img/bella-mediation1.jpg)
 
 ## Modalités d'accueil
-tarif horaire => 50 € TTC
-forfait journée => 220 € TTC  avec ½ pension, prise en charge sur 8h
 
-Frais de déplacements: (pour récupérer/déposer le jeune sur son lieu de vie) => 0.65 € / km 
-
+Depuis mars 2024 nous accueillons, exclusivement pour des séjours,  des jeunes qui nous sont confiés par le département de la Savoie.
+Pour toutes autres demandes d'accompagnement éducatif, merci de nous contacter.
 
 
 
