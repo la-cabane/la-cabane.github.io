@@ -20,7 +20,7 @@ Les ateliers ont lieu à la "Cab'âne" ou dans votre structure.
 - jeux de mémoire autour de l'âne
 - conte d'une histoire d'âne
 ####   Coût de l'atelier 70€TTC/h (6 personnes)
-![oups](../assets/img/bella-mediation1.jpg)
+(![oups](/la-cabane/assets/img/bella-mediation1.jpg)
 
 ### Formule découverte (dans votre structure)
 - installation des ânes dans un enclos
@@ -37,7 +37,7 @@ Accueil d'une classe jusqu'à 30 enfants
 - jeux sur le thème des ânes
 ####   240€ TTC/ demi-journée
 ####   400€ TTC/ journée
-![oups](../assets/img/mediation-floute-groupe.png)
+![oups](/la-cabane/assets/img/mediation-floute-groupe.png)
 
 
 ### devis gratuit personnalisé 
