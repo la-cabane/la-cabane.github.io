@@ -32,7 +32,7 @@ Mariés depuis 8 ans,  nous avons 4 garçons. Arrivés en 2018 à Notre-Dame-des
 
 Enracinés dans notre territoire, nous avons développé un potager à caractère pédagogique que nous  partageons avec nos voisins et amis.
 De plus, nous avons des animaux de basse cours ainsi que des ânes. Cela nous permet de  vivre notre quotidien avec des joies simples autour d’activités proches de la terre. 
-
+ ![oups](/la-cabane/assets/img/mael-priscille.jpg) 
 ### Priscille: 
 Après un parcours dans l’industrie automobile, je me suis tournée, en 2019,  vers le domaine de l’éducatif en rejoignant l'association CycloShow-XY France”. 
 J’anime des ateliers sur la puberté auprès de pré-adolescentes accompagnées de leurs mamans, en soutien à la parentalité. 
