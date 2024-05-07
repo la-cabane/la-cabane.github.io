@@ -70,7 +70,7 @@ La Cab’Âne, c’est aussi un lieu où se vivent des activités autour de la t
 # Les ânes
 
 ![oups](/la-cabane/assets/img/bella-jazz.jpg)
-Ala cab'âne, nos 4 ânes Marius, Roméo, Jazz et Bella vous accueillent !
+A la cab'âne, nos 4 ânes Marius, Roméo, Jazz et Bella vous accueillent !
 
 # Nos partenaires
 Proches du réseau “Accueil Paysan” depuis le mois de mars 2023, nous développons un partenariat fort avec les fermes d’Accueil Paysan. 
