@@ -37,6 +37,7 @@ De plus, nous avons des animaux de basse cours ainsi que des ânes. Cela nous pe
 Après un parcours dans l’industrie automobile, je me suis tournée, en 2019,  vers le domaine de l’éducatif en rejoignant l'association CycloShow-XY France”. 
 J’anime des ateliers sur la puberté auprès de pré-adolescentes accompagnées de leurs mamans, en soutien à la parentalité. 
 Cette expérience professionnelle m’a préparé dans mon cheminement personnel pour proposer aujourd’hui un service d’accueil à notre domicile.
+En 2021 je me suis formée en médiation animale afin de proposer un accompagnement éducatif supplémentaire. 
 
 ### Maël:  
 Après plus de 14 ans d’activités en tant que sapeur pompier, j’ai effectué un grand virage professionnel pour me diriger vers les métiers de l’éducatif. 
@@ -68,8 +69,8 @@ La Cab’Âne, c’est aussi un lieu où se vivent des activités autour de la t
 
 # Les ânes
 
-![oups](/la-cabane/assets/img/rond-longe-traction.jpg)
-
+![oups](/la-cabane/assets/img/bella-jazz.jpg)
+Ala cab'âne, nos 4 ânes Marius, Roméo, Jazz et Bella vous accueillent !
 
 # Nos partenaires
 Proches du réseau “Accueil Paysan” depuis le mois de mars 2023, nous développons un partenariat fort avec les fermes d’Accueil Paysan. 
