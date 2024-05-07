@@ -2,7 +2,7 @@
 layout: post
 title: "Accueil Educatif"
 author: "La-Cabane"
-image: debrousailleuse.jpg
+image: activite-bois.jpg
 ---
 
 # Objectif de la cab’âne:
