@@ -2,7 +2,7 @@
 layout: post
 title: "Qui sommes-nous ?"
 author: "La-Cabane"
-image: logo-long.jpg
+image: prince-polka.jpg
 ---
 # « Il faut tout un village pour éduquer un enfant »
 
