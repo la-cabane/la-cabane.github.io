@@ -32,7 +32,7 @@ Mariés depuis 8 ans,  nous avons 4 garçons. Arrivés en 2018 à Notre-Dame-des
 
 Enracinés dans notre territoire, nous avons développé un potager à caractère pédagogique que nous  partageons avec nos voisins et amis.
 De plus, nous avons des animaux de basse cours ainsi que des ânes. Cela nous permet de  vivre notre quotidien avec des joies simples autour d’activités proches de la terre. 
- ![oups](/la-cabane/assets/img/mael-priscille.jpg) 
+ ![oups](/assets/img/mael-priscille.jpg) 
 ### Priscille: 
 Après un parcours dans l’industrie automobile, je me suis tournée, en 2019,  vers le domaine de l’éducatif en rejoignant l'association CycloShow-XY France”. 
 J’anime des ateliers sur la puberté auprès de pré-adolescentes accompagnées de leurs mamans, en soutien à la parentalité. 
@@ -65,11 +65,11 @@ Et nous privilégions une vie sobre et joyeuse.
 
 Notre maison est située dans un petit village, Notre Dame des Millières en Savoie, entre Albertville et Chambéry Ce village abrite mille habitants, il est situé à la campagne proche des sommets alpins.
 La Cab’Âne, c’est aussi un lieu où se vivent des activités autour de la terre et des animaux. Soit sur place avec le jardin potager, les poules et nos fidèles compagnons les ânes ; soit chez les paysans qui nous accueillent dans leurs fermes.
-![oups](/la-cabane/assets/img/lieu-accueil.jpeg) 
+![oups](/assets/img/lieu-accueil.jpeg) 
 
 # Les ânes
 
-![oups](/la-cabane/assets/img/bella-jazz.jpg)
+![oups](/assets/img/bella-jazz.jpg)
 A la cab'âne, nos 4 ânes Marius, Roméo, Jazz et Bella vous accueillent !
 
 # Nos partenaires
